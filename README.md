@@ -52,5 +52,5 @@ The trained models are saved using `.pkl` files for future predictions.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/Email-Spam-Detection.git
+git clone https://github.com/sarthakbansal2004/Spam-Email-Classifier-Project.git
 
